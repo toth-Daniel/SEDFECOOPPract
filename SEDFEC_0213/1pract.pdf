@@ -1,0 +1,8 @@
+git status - állapotellenőrzés
+git add "SEDFEC_0213/*.*" - feltöltés, vagy ha több file van, akkor
+git add . - minden file feltöltése
+git commit -m "SEDFEC_1pract" - committolás a stage-re
+git log - megmutatja, hogy milyen commitok készültek
+git shortlog
+git push - feltölt
+git pull - 
